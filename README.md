@@ -4,7 +4,7 @@
  I am  a Software Engineer at Ezeelink Indonesia  and Freelance Music Arranger & Video Editor 
 
 <p align="left">
-      <a href="https://www.linkedin.com/in/yohanesrizky/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/yorigum/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="yohanes" height="30"/></a>
       <a href="https://yoriworks@gmail.com" target="blank"><img align="center"
