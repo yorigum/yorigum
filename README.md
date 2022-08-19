@@ -1,7 +1,7 @@
 ### Hi there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, i am Yohanes Rizky Gumilir
 
 ---
- I am  a Software Engineer at Ezeelink Indonesia  and Freelance Music Arranger & Video Editor 
+ I am  a Mobile Developer at AGIT and Freelance Music Arranger & Video Editor 
 
 <p align="left">
       <a href="https://www.linkedin.com/in/yorigum/" target="blank"><img align="center"
