@@ -7,7 +7,7 @@
       <a href="https://www.linkedin.com/in/yorigum/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="yohanes" height="30"/></a>
-      <a href="https://yoriworks@gmail.com" target="blank"><img align="center"
+      <a href="mailto:yoriworks@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="yohanes" height="30"/></a>
       <a href="https://instagram.com/yohanesrizky" target="blank"><img align="center"
